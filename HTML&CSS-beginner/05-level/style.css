@@ -32,3 +32,11 @@ nav {
 img {
     width: 200px;
 }
+
+footer {
+    padding: 60px;
+    display: block;
+    text-align: center;
+    background: rgb(128, 125, 125);
+    background-size: cover;
+}
