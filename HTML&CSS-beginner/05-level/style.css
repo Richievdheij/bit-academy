@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue
+    background-color: rgb(234, 234, 234);
 }
 
 div {
@@ -8,4 +8,27 @@ div {
 
 h1 {
     font-size: 50px;
+    border-bottom: 1px solid;
+    height: 80px;
+}
+
+header {
+    display: block;
+}
+
+.p {
+    border-bottom: 1px solid;
+    height: 40px;
+}
+
+nav {
+    text-align: center;
+    background: green;
+    display: block;
+    font-size: 25px;
+    margin: 10px;
+}
+
+img {
+    width: 200px;
 }
