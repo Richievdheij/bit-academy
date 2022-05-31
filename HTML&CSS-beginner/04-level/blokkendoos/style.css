@@ -3,7 +3,7 @@ body {
 }
 
 li {
-    display: block;
+    display: inline;
 }
 
 label {
