@@ -1,13 +1,12 @@
 body {
     background-color: rgb(255, 255, 255);
-    text-align: center;
 }
 
 h1 {
     color: rgb(0, 0, 0);
 }
 
-.addname {
+.addnaam {
     border-bottom: outset;
     border-right: outset;
     width: 300px;
@@ -16,6 +15,30 @@ h1 {
 }
 
 .submitbutton {
+    width: 300px;
+    margin: 1px;
+    border-radius: 5px;
+}
+
+.addemail {
+    border-bottom: outset;
+    border-right: outset;
+    width: 300px;
+    margin: 1px;
+    border-radius: 5px;
+}
+
+.addnumber {
+    border-bottom: outset;
+    border-right: outset;
+    width: 300px;
+    margin: 1px;
+    border-radius: 5px;
+}
+
+.addpassword {
+    border-bottom: outset;
+    border-right: outset;
     width: 300px;
     margin: 1px;
     border-radius: 5px;
