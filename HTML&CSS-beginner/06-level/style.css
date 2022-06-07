@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+.addname {
+    border-bottom: outset;
+    border-right: outset;
+    width: 300px;
+    margin: 1px;
+    border-radius: 5px;
+}
+
+.submitbutton {
+    width: 300px;
+    margin: 1px;
+    border-radius: 5px;
+}
